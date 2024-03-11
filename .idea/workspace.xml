@@ -35,6 +35,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdvancedConcepts.executor": "Run",
+    "Application.Basics.executor": "Run",
     "Application.CombinationSum.executor": "Run",
     "Application.CountDigits.executor": "Run",
     "Application.CountSubsequencesSumToTarget.executor": "Run",
@@ -71,13 +73,26 @@
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LargestElement">
-    <configuration name="GcdOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.maths.GcdOfNumber" />
+  <component name="RunManager" selected="Application.AdvancedConcepts">
+    <configuration name="AdvancedConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.AdvancedConcepts" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.maths.*" />
+          <option name="PATTERN" value="com.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.Basics" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,26 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrailingZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.maths.TrailingZeros" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.maths.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvancedConcepts" />
+        <item itemvalue="Application.Basics" />
         <item itemvalue="Application.LargestElement" />
         <item itemvalue="Application.PrimeFactors" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.GcdOfNumber" />
-        <item itemvalue="Application.TrailingZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +173,7 @@
       <workItem from="1709621940011" duration="44000" />
       <workItem from="1709622004533" duration="695000" />
       <workItem from="1709735531477" duration="36000" />
-      <workItem from="1709965471311" duration="1703000" />
+      <workItem from="1709965471311" duration="4291000" />
     </task>
     <servers />
   </component>
