@@ -41,6 +41,7 @@
     "Application.CountDigits.executor": "Run",
     "Application.CountSubsequencesSumToTarget.executor": "Run",
     "Application.FibonacciNumber.executor": "Run",
+    "Application.FlipBits.executor": "Run",
     "Application.GcdOfNumber.executor": "Run",
     "Application.LargestElement.executor": "Run",
     "Application.Main.executor": "Run",
@@ -49,11 +50,16 @@
     "Application.PrimeNumber.executor": "Run",
     "Application.ReverseANumber.executor": "Run",
     "Application.ReverseAnArray.executor": "Run",
+    "Application.SingleNumber1.executor": "Run",
+    "Application.SingleNumber2.executor": "Run",
     "Application.SubSequences.executor": "Run",
     "Application.SubSequencesSumToTarget.executor": "Run",
     "Application.SubSetSum.executor": "Run",
+    "Application.Subsets.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
+    "Application.Swapnumbers.executor": "Run",
     "Application.TrailingZeros.executor": "Run",
+    "Application.com.bitmanipulation.Basics.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -73,13 +79,13 @@
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdvancedConcepts">
-    <configuration name="AdvancedConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.multithreading.AdvancedConcepts" />
+  <component name="RunManager" selected="Application.XorOfNumbers">
+    <configuration name="FlipBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.FlipBits" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.multithreading.*" />
+          <option name="PATTERN" value="com.bitmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.multithreading.Basics" />
+    <configuration name="SingleNumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.SingleNumber1" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.multithreading.*" />
+          <option name="PATTERN" value="com.bitmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arrays.LargestElement" />
+    <configuration name="SingleNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.SingleNumber2" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arrays.*" />
+          <option name="PATTERN" value="com.bitmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.maths.PrimeFactors" />
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.Subsets" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.maths.*" />
+          <option name="PATTERN" value="com.bitmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.maths.PrimeNumber" />
+    <configuration name="XorOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.XorOfNumbers" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.maths.*" />
+          <option name="PATTERN" value="com.bitmanipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdvancedConcepts" />
-        <item itemvalue="Application.Basics" />
-        <item itemvalue="Application.LargestElement" />
-        <item itemvalue="Application.PrimeFactors" />
-        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.XorOfNumbers" />
+        <item itemvalue="Application.SingleNumber2" />
+        <item itemvalue="Application.SingleNumber1" />
+        <item itemvalue="Application.Subsets" />
+        <item itemvalue="Application.FlipBits" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +179,8 @@
       <workItem from="1709621940011" duration="44000" />
       <workItem from="1709622004533" duration="695000" />
       <workItem from="1709735531477" duration="36000" />
-      <workItem from="1709965471311" duration="4291000" />
+      <workItem from="1709965471311" duration="4977000" />
+      <workItem from="1710310348319" duration="6737000" />
     </task>
     <servers />
   </component>
