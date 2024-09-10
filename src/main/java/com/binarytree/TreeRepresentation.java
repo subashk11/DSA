@@ -4,7 +4,7 @@ package com.binarytree;
 public class TreeRepresentation {
 
     Node root;
-    static class Node{
+    static  class Node{
         int data;
         Node left;
         Node right;

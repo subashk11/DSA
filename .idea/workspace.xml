@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae31eef5-1154-4a53-8847-b7c790db2547" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/binarytree/TreeRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/binarytree/TreeRepresentation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,59 +34,107 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AdvancedConcepts.executor": "Run",
-    "Application.Basics.executor": "Run",
-    "Application.CombinationSum.executor": "Run",
-    "Application.CountDigits.executor": "Run",
-    "Application.CountSubsequencesSumToTarget.executor": "Run",
-    "Application.FibonacciNumber.executor": "Run",
-    "Application.FlipBits.executor": "Run",
-    "Application.GcdOfNumber.executor": "Run",
-    "Application.LargestElement.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PalindromeString.executor": "Run",
-    "Application.PrimeFactors.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.ReverseANumber.executor": "Run",
-    "Application.ReverseAnArray.executor": "Run",
-    "Application.SingleNumber1.executor": "Run",
-    "Application.SingleNumber2.executor": "Run",
-    "Application.SubSequences.executor": "Run",
-    "Application.SubSequencesSumToTarget.executor": "Run",
-    "Application.SubSetSum.executor": "Run",
-    "Application.Subsets.executor": "Run",
-    "Application.SumOfNumbers.executor": "Run",
-    "Application.Swapnumbers.executor": "Run",
-    "Application.TrailingZeros.executor": "Run",
-    "Application.com.bitmanipulation.Basics.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdvancedConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aliendictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BalancedBinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BipartiteGraph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoundaryTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreadthFirstSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckArraySortedAndRotated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CombinationSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountSubsequencesSumToTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DepthFirstSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DepthOfBinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetectACycle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetectLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistanceOfNearsetCell.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistinctIslands.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoublyLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DutchNationalFlagAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlipBits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloodFillAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GcdOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetStartingPointOfCycle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphImplementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IterativeTraversals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KadanesAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRightView.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthOfLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LevelOrderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxPathSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxWidthofTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MiddleNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfEnclaves.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfIslands.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfProvinces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PreOrderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeFactors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceOWithX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseANumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateAMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RottenOranges.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShortestPath.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumber1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumber2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StockBuyAndSell.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSequences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSequencesSumToTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSetSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swapnumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SymmetricBinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TopologicalSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Traversals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeRepresentation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XorOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZigZagTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.bitmanipulation.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.linkedlist.doublylinkedlist.DoublyLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;E:/Java Spring Projects/DSA/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java Spring Projects/Functional Programming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XorOfNumbers">
-    <configuration name="FlipBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.FlipBits" />
+  <component name="RunManager" selected="Application.ShortestPath">
+    <configuration name="Aliendictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.graphs.Aliendictionary" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bitmanipulation.*" />
+          <option name="PATTERN" value="com.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.SingleNumber1" />
+    <configuration name="BipartiteGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.graphs.BipartiteGraph" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bitmanipulation.*" />
+          <option name="PATTERN" value="com.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.SingleNumber2" />
+    <configuration name="DistinctIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.graphs.DistinctIslands" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bitmanipulation.*" />
+          <option name="PATTERN" value="com.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.Subsets" />
+    <configuration name="ShortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.graphs.ShortestPath" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bitmanipulation.*" />
+          <option name="PATTERN" value="com.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XorOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bitmanipulation.XorOfNumbers" />
+    <configuration name="TopologicalSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.graphs.TopologicalSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bitmanipulation.*" />
+          <option name="PATTERN" value="com.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XorOfNumbers" />
-        <item itemvalue="Application.SingleNumber2" />
-        <item itemvalue="Application.SingleNumber1" />
-        <item itemvalue="Application.Subsets" />
-        <item itemvalue="Application.FlipBits" />
+        <item itemvalue="Application.ShortestPath" />
+        <item itemvalue="Application.Aliendictionary" />
+        <item itemvalue="Application.TopologicalSort" />
+        <item itemvalue="Application.BipartiteGraph" />
+        <item itemvalue="Application.DistinctIslands" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +229,38 @@
       <workItem from="1709622004533" duration="695000" />
       <workItem from="1709735531477" duration="36000" />
       <workItem from="1709965471311" duration="4977000" />
-      <workItem from="1710310348319" duration="6737000" />
+      <workItem from="1710310348319" duration="10730000" />
+      <workItem from="1710399720882" duration="555000" />
+      <workItem from="1710400294724" duration="381000" />
+      <workItem from="1710400721486" duration="1807000" />
+      <workItem from="1710406142523" duration="5171000" />
+      <workItem from="1710421207876" duration="243000" />
+      <workItem from="1710421472837" duration="6548000" />
+      <workItem from="1710501447648" duration="627000" />
+      <workItem from="1710514127928" duration="989000" />
+      <workItem from="1710662337617" duration="264000" />
+      <workItem from="1710844792470" duration="1748000" />
+      <workItem from="1710846634666" duration="3857000" />
+      <workItem from="1710854548815" duration="8674000" />
+      <workItem from="1711429250621" duration="2033000" />
+      <workItem from="1711647091308" duration="5722000" />
+      <workItem from="1711905427160" duration="756000" />
+      <workItem from="1712060999345" duration="1051000" />
+      <workItem from="1712314959165" duration="2615000" />
+      <workItem from="1713112315365" duration="368000" />
+      <workItem from="1713544249683" duration="77000" />
+      <workItem from="1715797158268" duration="5755000" />
+      <workItem from="1716315233853" duration="2272000" />
+      <workItem from="1717517491760" duration="1360000" />
+      <workItem from="1717604224238" duration="4793000" />
+      <workItem from="1717689400187" duration="4191000" />
+      <workItem from="1718124744916" duration="3055000" />
+      <workItem from="1718210332647" duration="2631000" />
+      <workItem from="1718639493608" duration="142000" />
+      <workItem from="1718639650801" duration="4382000" />
+      <workItem from="1721148395646" duration="610000" />
+      <workItem from="1721149368163" duration="119000" />
+      <workItem from="1721149847089" duration="22000" />
     </task>
     <servers />
   </component>
@@ -199,6 +279,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java</url>
           <line>25</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/binarytree/IterativeTraversals.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/binarytree/IterativeTraversals.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/graphs/FloodFillAlgorithm.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/graphs/ShortestPath.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
