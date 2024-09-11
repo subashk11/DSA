@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae31eef5-1154-4a53-8847-b7c790db2547" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     "Application.BoundaryTraversal.executor": "Run",
     "Application.BreadthFirstSearch.executor": "Run",
     "Application.CheckArraySortedAndRotated.executor": "Run",
+    "Application.CollectorsStream.executor": "Run",
     "Application.CombinationSum.executor": "Run",
     "Application.CountDigits.executor": "Run",
     "Application.CountSubsequencesSumToTarget.executor": "Run",
@@ -78,6 +78,7 @@
     "Application.NumberOfEnclaves.executor": "Run",
     "Application.NumberOfIslands.executor": "Run",
     "Application.NumberOfProvinces.executor": "Run",
+    "Application.OddAndEven.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.PalindromeString.executor": "Run",
     "Application.PreOrderTraversal.executor": "Run",
@@ -126,18 +127,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FunctionalInterface">
-    <configuration name="Aliendictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.graphs.Aliendictionary" />
+  <component name="RunManager" selected="Application.CollectorsStream">
+    <configuration name="CollectorsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.CollectorsStream" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.graphs.*" />
+          <option name="PATTERN" value="com.functionalprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,6 +175,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OddAndEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.OddAndEven" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.functionalprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReactiveProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.ReactiveProgramming" />
       <module name="DSA" />
@@ -184,26 +201,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.graphs.ShortestPath" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.graphs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectorsStream" />
+        <item itemvalue="Application.OddAndEven" />
         <item itemvalue="Application.FunctionalInterface" />
         <item itemvalue="Application.ReactiveProgramming" />
         <item itemvalue="Application.Lambda_FP" />
-        <item itemvalue="Application.ShortestPath" />
-        <item itemvalue="Application.Aliendictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +268,7 @@
       <workItem from="1721148395646" duration="610000" />
       <workItem from="1721149368163" duration="119000" />
       <workItem from="1721149847089" duration="22000" />
-      <workItem from="1725987550430" duration="7131000" />
+      <workItem from="1725987550430" duration="11418000" />
     </task>
     <servers />
   </component>
