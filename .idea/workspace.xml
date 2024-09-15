@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae31eef5-1154-4a53-8847-b7c790db2547" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/functionalprogramming/CollectorsStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/functionalprogramming/CollectorsStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
     "Application.CombinationSum.executor": "Run",
     "Application.CountDigits.executor": "Run",
     "Application.CountSubsequencesSumToTarget.executor": "Run",
+    "Application.DateTimeProblems.executor": "Run",
     "Application.DepthFirstSearch.executor": "Run",
     "Application.DepthOfBinaryTree.executor": "Run",
     "Application.DetectACycle.executor": "Run",
@@ -84,7 +86,9 @@
     "Application.PreOrderTraversal.executor": "Run",
     "Application.PrimeFactors.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.Problems.executor": "Run",
     "Application.ReactiveProgramming.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
     "Application.ReplaceOWithX.executor": "Run",
     "Application.ReverseANumber.executor": "Run",
     "Application.ReverseAnArray.executor": "Run",
@@ -96,6 +100,7 @@
     "Application.SingleNumber2.executor": "Run",
     "Application.SingleTraversal.executor": "Run",
     "Application.StockBuyAndSell.executor": "Run",
+    "Application.Streams_Problems_02.executor": "Run",
     "Application.SubSequences.executor": "Run",
     "Application.SubSequencesSumToTarget.executor": "Run",
     "Application.SubSetSum.executor": "Run",
@@ -135,7 +140,7 @@
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectorsStream">
+  <component name="RunManager" selected="Application.Streams_Problems_02 (1)">
     <configuration name="CollectorsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.CollectorsStream" />
       <module name="DSA" />
@@ -149,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.FunctionalInterface" />
+    <configuration name="DateTimeProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.DateTimeProblems" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda_FP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.Lambda_FP" />
+    <configuration name="Problems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.Problems" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -175,8 +180,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddAndEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.OddAndEven" />
+    <configuration name="Streams_Problems_02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.Streams_Problems_02" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -188,8 +193,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReactiveProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.ReactiveProgramming" />
+    <configuration name="Streams_Problems_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.Streams_Problems_02" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -203,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Streams_Problems_02 (1)" />
+        <item itemvalue="Application.Streams_Problems_02" />
+        <item itemvalue="Application.DateTimeProblems" />
         <item itemvalue="Application.CollectorsStream" />
-        <item itemvalue="Application.OddAndEven" />
-        <item itemvalue="Application.FunctionalInterface" />
-        <item itemvalue="Application.ReactiveProgramming" />
-        <item itemvalue="Application.Lambda_FP" />
+        <item itemvalue="Application.Problems" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +273,9 @@
       <workItem from="1721148395646" duration="610000" />
       <workItem from="1721149368163" duration="119000" />
       <workItem from="1721149847089" duration="22000" />
-      <workItem from="1725987550430" duration="11418000" />
+      <workItem from="1725987550430" duration="12880000" />
+      <workItem from="1726304512476" duration="3127000" />
+      <workItem from="1726405279477" duration="9903000" />
     </task>
     <servers />
   </component>

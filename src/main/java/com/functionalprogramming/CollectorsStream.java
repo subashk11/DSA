@@ -37,5 +37,19 @@ public class CollectorsStream {
 
         //4. PartitionBy is used to partition the array into two segments of map one is false and other is true
         Map<Boolean, List<Integer>> seggreagatedList = list.stream().map(item -> Integer.parseInt(item)).collect(Collectors.partitioningBy(n -> n%2 == 0));
+
+        System.out.println(" 4. partition is triggered : ");
+        for(Map.Entry<Boolean, List<Integer>> entry : seggreagatedList.entrySet()){
+            System.out.println(" key is : "+ entry.getKey() + " values are : "+ entry.getValue());
+        }
+
+        // 5. Groupinginby are used to group the values form of map
+        Stream<String> seq = Stream.of("Apple", "Orange", "Banana", "Apricot", "Cherry","Blueberry");
+
+        Map<Character, List<String>> filteredList = seq.collect(Collectors.groupingBy(item -> item.charAt(0)));
+        System.out.println(" 5. Groupinginby() is triggered");
+        for(Map.Entry<Character, List<String>> entry : filteredList.entrySet()){
+            System.out.println(" key value is : "+ entry.getKey() + " Grouped values are : "+ entry.getValue());
+        }
     }
 }
