@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae31eef5-1154-4a53-8847-b7c790db2547" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/functionalprogramming/CollectorsStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/functionalprogramming/CollectorsStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     "Application.AdvancedConcepts.executor": "Run",
     "Application.Aliendictionary.executor": "Run",
     "Application.BalancedBinaryTree.executor": "Run",
+    "Application.BasicRecursion.executor": "Run",
     "Application.Basics.executor": "Run",
     "Application.BipartiteGraph.executor": "Run",
     "Application.BoundaryTraversal.executor": "Run",
@@ -101,6 +101,7 @@
     "Application.SingleTraversal.executor": "Run",
     "Application.StockBuyAndSell.executor": "Run",
     "Application.Streams_Problems_02.executor": "Run",
+    "Application.StringToInt.executor": "Debug",
     "Application.SubSequences.executor": "Run",
     "Application.SubSequencesSumToTarget.executor": "Run",
     "Application.SubSetSum.executor": "Run",
@@ -116,6 +117,7 @@
     "Application.ZigZagTraversal.executor": "Run",
     "Application.com.bitmanipulation.Basics.executor": "Run",
     "Application.com.linkedlist.doublylinkedlist.DoublyLinkedList.executor": "Run",
+    "Application.towerOfHanoi.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -140,39 +142,13 @@
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Streams_Problems_02 (1)">
-    <configuration name="CollectorsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.CollectorsStream" />
+  <component name="RunManager" selected="Application.StringToInt">
+    <configuration name="BasicRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.new_problems.recursion.BasicRecursion" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.functionalprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateTimeProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.DateTimeProblems" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.functionalprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.Problems" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.functionalprogramming.*" />
+          <option name="PATTERN" value="com.new_problems.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,13 +182,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.new_problems.recursion.StringToInt" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.new_problems.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="towerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.new_problems.recursion.towerOfHanoi" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.new_problems.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringToInt" />
+        <item itemvalue="Application.towerOfHanoi" />
+        <item itemvalue="Application.BasicRecursion" />
         <item itemvalue="Application.Streams_Problems_02 (1)" />
         <item itemvalue="Application.Streams_Problems_02" />
-        <item itemvalue="Application.DateTimeProblems" />
-        <item itemvalue="Application.CollectorsStream" />
-        <item itemvalue="Application.Problems" />
       </list>
     </recent_temporary>
   </component>
@@ -276,6 +278,7 @@
       <workItem from="1725987550430" duration="12880000" />
       <workItem from="1726304512476" duration="3127000" />
       <workItem from="1726405279477" duration="9903000" />
+      <workItem from="1726494788799" duration="10433000" />
     </task>
     <servers />
   </component>
@@ -314,6 +317,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/graphs/ShortestPath.java</url>
           <line>84</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/recursion/StringToInt.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/recursion/StringToInt.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/recursion/StringToInt.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/recursion/StringToInt.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/recursion/StringToInt.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/recursion/StringToInt.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
