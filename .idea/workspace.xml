@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae31eef5-1154-4a53-8847-b7c790db2547" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/functionalprogramming/ReactiveProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/functionalprogramming/ReactiveProgramming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,107 +34,108 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AdvancedConcepts.executor": "Run",
-    "Application.Aliendictionary.executor": "Run",
-    "Application.BalancedBinaryTree.executor": "Run",
-    "Application.BasicRecursion.executor": "Run",
-    "Application.Basics.executor": "Run",
-    "Application.BipartiteGraph.executor": "Run",
-    "Application.BoundaryTraversal.executor": "Run",
-    "Application.BreadthFirstSearch.executor": "Run",
-    "Application.CheckArraySortedAndRotated.executor": "Run",
-    "Application.CollectorsStream.executor": "Run",
-    "Application.CombinationSum.executor": "Run",
-    "Application.CountDigits.executor": "Run",
-    "Application.CountSubsequencesSumToTarget.executor": "Run",
-    "Application.DateTimeProblems.executor": "Run",
-    "Application.DepthFirstSearch.executor": "Run",
-    "Application.DepthOfBinaryTree.executor": "Run",
-    "Application.DetectACycle.executor": "Run",
-    "Application.DetectLoop.executor": "Run",
-    "Application.DistanceOfNearsetCell.executor": "Run",
-    "Application.DistinctIslands.executor": "Run",
-    "Application.DoublyLinkedList.executor": "Run",
-    "Application.DutchNationalFlagAlgorithm.executor": "Run",
-    "Application.FibonacciNumber.executor": "Run",
-    "Application.FlipBits.executor": "Run",
-    "Application.FloodFillAlgorithm.executor": "Run",
-    "Application.FunctionalInterface.executor": "Run",
-    "Application.GcdOfNumber.executor": "Run",
-    "Application.GetStartingPointOfCycle.executor": "Run",
-    "Application.GraphImplementation.executor": "Run",
-    "Application.IterativeTraversals.executor": "Run",
-    "Application.KadanesAlgorithm.executor": "Run",
-    "Application.Lambda_FP.executor": "Run",
-    "Application.LargestElement.executor": "Run",
-    "Application.LeftRightView.executor": "Run",
-    "Application.LengthOfLoop.executor": "Run",
-    "Application.LevelOrderTraversal.executor": "Run",
-    "Application.LinkedListBasic.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxPathSum.executor": "Run",
-    "Application.MaxWidthofTree.executor": "Run",
-    "Application.MiddleNode.executor": "Run",
-    "Application.NextPermutation.executor": "Run",
-    "Application.NumberOfEnclaves.executor": "Run",
-    "Application.NumberOfIslands.executor": "Run",
-    "Application.NumberOfProvinces.executor": "Run",
-    "Application.OddAndEven.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PalindromeString.executor": "Run",
-    "Application.PreOrderTraversal.executor": "Run",
-    "Application.PrimeFactors.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.Problems.executor": "Run",
-    "Application.ReactiveProgramming.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.ReplaceOWithX.executor": "Run",
-    "Application.ReverseANumber.executor": "Run",
-    "Application.ReverseAnArray.executor": "Run",
-    "Application.ReverseLinkedList.executor": "Run",
-    "Application.RotateAMatrix.executor": "Run",
-    "Application.RottenOranges.executor": "Run",
-    "Application.ShortestPath.executor": "Run",
-    "Application.SingleNumber1.executor": "Run",
-    "Application.SingleNumber2.executor": "Run",
-    "Application.SingleTraversal.executor": "Run",
-    "Application.StockBuyAndSell.executor": "Run",
-    "Application.Streams_Problems_02.executor": "Run",
-    "Application.StringToInt.executor": "Debug",
-    "Application.SubSequences.executor": "Run",
-    "Application.SubSequencesSumToTarget.executor": "Run",
-    "Application.SubSetSum.executor": "Run",
-    "Application.Subsets.executor": "Run",
-    "Application.SumOfNumbers.executor": "Run",
-    "Application.Swapnumbers.executor": "Run",
-    "Application.SymmetricBinaryTree.executor": "Run",
-    "Application.TopologicalSort.executor": "Run",
-    "Application.TrailingZeros.executor": "Run",
-    "Application.Traversals.executor": "Run",
-    "Application.TreeRepresentation.executor": "Run",
-    "Application.XorOfNumbers.executor": "Run",
-    "Application.ZigZagTraversal.executor": "Run",
-    "Application.com.bitmanipulation.Basics.executor": "Run",
-    "Application.com.linkedlist.doublylinkedlist.DoublyLinkedList.executor": "Run",
-    "Application.towerOfHanoi.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "E:/Java Spring Projects/DSA/src/main/java",
-    "last_opened_file_path": "E:/Java Spring Projects/Functional Programming",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdvancedConcepts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aliendictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BalancedBinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BipartiteGraph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoundaryTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreadthFirstSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckArraySortedAndRotated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectorsStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CombinationSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountSubsequencesSumToTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateTimeProblems.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DepthFirstSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DepthOfBinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetectACycle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetectLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistanceOfNearsetCell.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistinctIslands.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoublyLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DutchNationalFlagAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlipBits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloodFillAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionalInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GcdOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetStartingPointOfCycle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphImplementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IterativeTraversals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KadanesAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lambda_FP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRightView.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthOfLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LevelOrderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxPathSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxWidthofTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MiddleNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfEnclaves.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfIslands.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfProvinces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddAndEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PreOrderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeFactors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problems.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReactiveProgramming.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceOWithX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseANumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateAMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RottenOranges.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShortestPath.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumber1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumber2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StockBuyAndSell.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Streams_Problems_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringToInt.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SubSequences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSequencesSumToTarget.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSetSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swapnumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SymmetricBinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TopologicalSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Traversals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeRepresentation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XorOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZigZagTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.bitmanipulation.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.linkedlist.doublylinkedlist.DoublyLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.towerOfHanoi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;E:/Java Spring Projects/DSA/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java Spring Projects/url-shortner/url-shortner&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -142,7 +144,7 @@
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringToInt">
+  <component name="RunManager" selected="Application.ReactiveProgramming">
     <configuration name="BasicRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.new_problems.recursion.BasicRecursion" />
       <module name="DSA" />
@@ -156,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams_Problems_02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.Streams_Problems_02" />
+    <configuration name="PowerOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.new_problems.recursion.PowerOfNumber" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.functionalprogramming.*" />
+          <option name="PATTERN" value="com.new_problems.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,8 +171,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams_Problems_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.Streams_Problems_02" />
+    <configuration name="ReactiveProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.ReactiveProgramming" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -210,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReactiveProgramming" />
+        <item itemvalue="Application.PowerOfNumber" />
         <item itemvalue="Application.StringToInt" />
         <item itemvalue="Application.towerOfHanoi" />
         <item itemvalue="Application.BasicRecursion" />
-        <item itemvalue="Application.Streams_Problems_02 (1)" />
-        <item itemvalue="Application.Streams_Problems_02" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +281,10 @@
       <workItem from="1726304512476" duration="3127000" />
       <workItem from="1726405279477" duration="9903000" />
       <workItem from="1726494788799" duration="10433000" />
+      <workItem from="1726511083595" duration="461000" />
+      <workItem from="1726585763749" duration="3182000" />
+      <workItem from="1727005144393" duration="1374000" />
+      <workItem from="1727006537008" duration="1720000" />
     </task>
     <servers />
   </component>
