@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ae31eef5-1154-4a53-8847-b7c790db2547" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/functionalprogramming/ReactiveProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/functionalprogramming/ReactiveProgramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,108 +35,116 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AdvancedConcepts.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aliendictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BalancedBinaryTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BasicRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BipartiteGraph.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoundaryTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BreadthFirstSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckArraySortedAndRotated.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CollectorsStream.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CombinationSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountSubsequencesSumToTarget.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateTimeProblems.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DepthFirstSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DepthOfBinaryTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DetectACycle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DetectLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DistanceOfNearsetCell.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DistinctIslands.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoublyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DutchNationalFlagAlgorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlipBits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloodFillAlgorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionalInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GcdOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GetStartingPointOfCycle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GraphImplementation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IterativeTraversals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KadanesAlgorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lambda_FP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftRightView.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LengthOfLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LevelOrderTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListBasic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxPathSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxWidthofTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MiddleNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextPermutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfEnclaves.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfIslands.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfProvinces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddAndEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PreOrderTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeFactors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problems.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReactiveProgramming.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReplaceOWithX.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseANumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseAnArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateAMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RottenOranges.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShortestPath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleNumber1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleNumber2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StockBuyAndSell.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Streams_Problems_02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringToInt.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SubSequences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSequencesSumToTarget.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSetSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Subsets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swapnumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SymmetricBinaryTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TopologicalSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Traversals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreeRepresentation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.XorOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ZigZagTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.bitmanipulation.Basics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.linkedlist.doublylinkedlist.DoublyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.towerOfHanoi.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;E:/Java Spring Projects/DSA/src/main/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Java Spring Projects/url-shortner/url-shortner&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdvancedConcepts.executor": "Run",
+    "Application.Aliendictionary.executor": "Run",
+    "Application.BalancedBinaryTree.executor": "Run",
+    "Application.BasicRecursion.executor": "Run",
+    "Application.Basics.executor": "Run",
+    "Application.BetterString.executor": "Run",
+    "Application.BipartiteGraph.executor": "Run",
+    "Application.BoundaryTraversal.executor": "Run",
+    "Application.BreadthFirstSearch.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CheckArraySortedAndRotated.executor": "Run",
+    "Application.CollectorsStream.executor": "Run",
+    "Application.CombinationSum.executor": "Run",
+    "Application.ConsecutiveOnes.executor": "Run",
+    "Application.CountDigits.executor": "Run",
+    "Application.CountSubsequencesSumToTarget.executor": "Run",
+    "Application.DateTimeProblems.executor": "Run",
+    "Application.DepthFirstSearch.executor": "Run",
+    "Application.DepthOfBinaryTree.executor": "Run",
+    "Application.DetectACycle.executor": "Run",
+    "Application.DetectLoop.executor": "Run",
+    "Application.DistanceOfNearsetCell.executor": "Run",
+    "Application.DistinctIslands.executor": "Run",
+    "Application.DoublyLinkedList.executor": "Run",
+    "Application.DutchNationalFlagAlgorithm.executor": "Run",
+    "Application.FibonacciNumber.executor": "Run",
+    "Application.FlipBits.executor": "Run",
+    "Application.FloodFillAlgorithm.executor": "Run",
+    "Application.FunctionalInterface.executor": "Run",
+    "Application.GcdOfNumber.executor": "Run",
+    "Application.GenerateParanthesis.executor": "Debug",
+    "Application.GetStartingPointOfCycle.executor": "Run",
+    "Application.GraphImplementation.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.IterativeTraversals.executor": "Run",
+    "Application.KadanesAlgorithm.executor": "Run",
+    "Application.Lambda_FP.executor": "Run",
+    "Application.LargestElement.executor": "Run",
+    "Application.LeftRightView.executor": "Run",
+    "Application.LengthOfLoop.executor": "Run",
+    "Application.LevelOrderTraversal.executor": "Run",
+    "Application.LinkedListBasic.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxPathSum.executor": "Run",
+    "Application.MaxWidthofTree.executor": "Run",
+    "Application.MiddleNode.executor": "Run",
+    "Application.NextPermutation.executor": "Run",
+    "Application.NumberOfEnclaves.executor": "Run",
+    "Application.NumberOfIslands.executor": "Run",
+    "Application.NumberOfProvinces.executor": "Run",
+    "Application.OddAndEven.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PalindromeString.executor": "Run",
+    "Application.PerfectSum.executor": "Debug",
+    "Application.PowerOfNumber.executor": "Run",
+    "Application.PreOrderTraversal.executor": "Run",
+    "Application.PrimeFactors.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.Problems.executor": "Run",
+    "Application.ReactiveProgramming.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReplaceOWithX.executor": "Run",
+    "Application.ReverseANumber.executor": "Run",
+    "Application.ReverseAnArray.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
+    "Application.RotateAMatrix.executor": "Run",
+    "Application.RottenOranges.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.ShortestPath.executor": "Run",
+    "Application.SingleNumber1.executor": "Run",
+    "Application.SingleNumber2.executor": "Run",
+    "Application.SingleTraversal.executor": "Run",
+    "Application.StockBuyAndSell.executor": "Run",
+    "Application.Streams_Problems_02.executor": "Run",
+    "Application.StringToInt.executor": "Debug",
+    "Application.SubSequences.executor": "Debug",
+    "Application.SubSequencesSumToTarget.executor": "Run",
+    "Application.SubSetSum.executor": "Run",
+    "Application.Subsets.executor": "Run",
+    "Application.SumOfNumbers.executor": "Run",
+    "Application.Swapnumbers.executor": "Run",
+    "Application.SymmetricBinaryTree.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
+    "Application.TopologicalSort.executor": "Run",
+    "Application.TrailingZeros.executor": "Run",
+    "Application.Traversals.executor": "Run",
+    "Application.TreeRepresentation.executor": "Run",
+    "Application.XorOfNumbers.executor": "Run",
+    "Application.ZigZagTraversal.executor": "Run",
+    "Application.com.bitmanipulation.Basics.executor": "Run",
+    "Application.com.linkedlist.doublylinkedlist.DoublyLinkedList.executor": "Run",
+    "Application.towerOfHanoi.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "E:/Java Spring Projects/DSA/src/main/java",
+    "last_opened_file_path": "E:/Java Spring Projects/DSA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -144,13 +153,13 @@
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReactiveProgramming">
-    <configuration name="BasicRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.new_problems.recursion.BasicRecursion" />
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.new_problems.sorting.iterative.BubbleSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.new_problems.recursion.*" />
+          <option name="PATTERN" value="com.new_problems.sorting.iterative.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.new_problems.recursion.PowerOfNumber" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.new_problems.sorting.iterative.InsertionSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.new_problems.recursion.*" />
+          <option name="PATTERN" value="com.new_problems.sorting.iterative.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReactiveProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.functionalprogramming.ReactiveProgramming" />
+    <configuration name="PerfectSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.PerfectSum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.functionalprogramming.*" />
+          <option name="PATTERN" value="com.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.new_problems.recursion.StringToInt" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.new_problems.sorting.iterative.SelectionSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.new_problems.recursion.*" />
+          <option name="PATTERN" value="com.new_problems.sorting.iterative.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="towerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.new_problems.recursion.towerOfHanoi" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.problems.ThreeSum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.new_problems.recursion.*" />
+          <option name="PATTERN" value="com.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReactiveProgramming" />
-        <item itemvalue="Application.PowerOfNumber" />
-        <item itemvalue="Application.StringToInt" />
-        <item itemvalue="Application.towerOfHanoi" />
-        <item itemvalue="Application.BasicRecursion" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.PerfectSum" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +293,18 @@
       <workItem from="1726511083595" duration="461000" />
       <workItem from="1726585763749" duration="3182000" />
       <workItem from="1727005144393" duration="1374000" />
-      <workItem from="1727006537008" duration="1720000" />
+      <workItem from="1727006537008" duration="2478000" />
+      <workItem from="1727077528537" duration="804000" />
+      <workItem from="1727081219359" duration="233000" />
+      <workItem from="1727081467383" duration="1734000" />
+      <workItem from="1727111716599" duration="83000" />
+      <workItem from="1727111818299" duration="2779000" />
+      <workItem from="1727197783213" duration="3758000" />
+      <workItem from="1727368308095" duration="619000" />
+      <workItem from="1727710325952" duration="84000" />
+      <workItem from="1729609780866" duration="116000" />
+      <workItem from="1731850873268" duration="1741000" />
+      <workItem from="1731943682475" duration="3762000" />
     </task>
     <servers />
   </component>
@@ -296,12 +316,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java</url>
-          <line>31</line>
+          <line>32</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java</url>
-          <line>25</line>
+          <line>26</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -354,7 +374,46 @@
           <line>19</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/ConsecutiveOnes.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/ConsecutiveOnes.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/PerfectSum.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/SelectionSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/SelectionSort.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
