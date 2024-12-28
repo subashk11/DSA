@@ -1,4 +1,4 @@
-package com.recursion;
+package com.recursion.medium;
 
 
 // subsequences are a list of contiguous or non contiguous items in a sequence array,

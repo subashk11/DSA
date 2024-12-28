@@ -1,4 +1,4 @@
-package com.recursion;
+package com.recursion.medium;
 import java.lang.*;
 
 //check the string is a palindrome or not using recursion.

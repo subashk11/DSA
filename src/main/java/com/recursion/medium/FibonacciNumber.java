@@ -1,4 +1,4 @@
-package com.recursion;
+package com.recursion.medium;
 
 //get the fibonacci number at the provided index values
 public class FibonacciNumber {

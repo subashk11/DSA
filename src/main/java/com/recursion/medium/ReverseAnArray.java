@@ -1,4 +1,4 @@
-package com.recursion;
+package com.recursion.medium;
 
 //Given an array and we need to reverse the array using recursion.
 public class ReverseAnArray {

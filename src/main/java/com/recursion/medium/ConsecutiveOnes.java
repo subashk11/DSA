@@ -1,4 +1,4 @@
-package com.recursion;
+package com.recursion.medium;
 
 public class ConsecutiveOnes {
     // Problem states that for n input  return the count of bits where there should not exists any

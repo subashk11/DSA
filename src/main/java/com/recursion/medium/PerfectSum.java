@@ -1,4 +1,4 @@
-package com.recursion;
+package com.recursion.medium;
 
 public class PerfectSum {
 

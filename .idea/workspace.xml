@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae31eef5-1154-4a53-8847-b7c790db2547" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/BetterString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/BetterString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/ConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/ConsecutiveOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/CountSubsequencesSumToTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/CountSubsequencesSumToTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/FibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/FibonacciNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/GenerateParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/GenerateParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/PerfectSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/PerfectSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/ReverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/ReverseAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SubSequencesSumToTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSequencesSumToTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SubSetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/SumOfNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +57,7 @@
     "Application.BasicRecursion.executor": "Run",
     "Application.Basics.executor": "Run",
     "Application.BetterString.executor": "Run",
+    "Application.BinarySearch.executor": "Debug",
     "Application.BipartiteGraph.executor": "Run",
     "Application.BoundaryTraversal.executor": "Run",
     "Application.BreadthFirstSearch.executor": "Run",
@@ -53,6 +68,7 @@
     "Application.ConsecutiveOnes.executor": "Run",
     "Application.CountDigits.executor": "Run",
     "Application.CountSubsequencesSumToTarget.executor": "Run",
+    "Application.DailPadProblem.executor": "Run",
     "Application.DateTimeProblems.executor": "Run",
     "Application.DepthFirstSearch.executor": "Run",
     "Application.DepthOfBinaryTree.executor": "Run",
@@ -82,6 +98,7 @@
     "Application.Main.executor": "Run",
     "Application.MaxPathSum.executor": "Run",
     "Application.MaxWidthofTree.executor": "Run",
+    "Application.MergeSort.executor": "Run",
     "Application.MiddleNode.executor": "Run",
     "Application.NextPermutation.executor": "Run",
     "Application.NumberOfEnclaves.executor": "Run",
@@ -91,6 +108,8 @@
     "Application.Palindrome.executor": "Run",
     "Application.PalindromeString.executor": "Run",
     "Application.PerfectSum.executor": "Debug",
+    "Application.PermutationsString.executor": "Debug",
+    "Application.PossibleStrings.executor": "Run",
     "Application.PowerOfNumber.executor": "Run",
     "Application.PreOrderTraversal.executor": "Run",
     "Application.PrimeFactors.executor": "Run",
@@ -153,13 +172,13 @@
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertionSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.new_problems.sorting.iterative.BubbleSort" />
+  <component name="RunManager" selected="Application.PossibleStrings">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.hard.BinarySearch" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.new_problems.sorting.iterative.*" />
+          <option name="PATTERN" value="com.recursion.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.new_problems.sorting.iterative.InsertionSort" />
+    <configuration name="DailPadProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.hard.DailPadProblem" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.new_problems.sorting.iterative.*" />
+          <option name="PATTERN" value="com.recursion.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursion.PerfectSum" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.new_problems.sorting.recursive.MergeSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.recursion.*" />
+          <option name="PATTERN" value="com.new_problems.sorting.recursive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.new_problems.sorting.iterative.SelectionSort" />
+    <configuration name="PermutationsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.hard.PermutationsString" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.new_problems.sorting.iterative.*" />
+          <option name="PATTERN" value="com.recursion.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.problems.ThreeSum" />
+    <configuration name="PossibleStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recursion.hard.PossibleStrings" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.problems.*" />
+          <option name="PATTERN" value="com.recursion.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.PerfectSum" />
+        <item itemvalue="Application.PossibleStrings" />
+        <item itemvalue="Application.PermutationsString" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.DailPadProblem" />
+        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -304,23 +323,38 @@
       <workItem from="1727710325952" duration="84000" />
       <workItem from="1729609780866" duration="116000" />
       <workItem from="1731850873268" duration="1741000" />
-      <workItem from="1731943682475" duration="3762000" />
+      <workItem from="1731943682475" duration="7388000" />
+      <workItem from="1734266531212" duration="78000" />
+      <workItem from="1734966033501" duration="5600000" />
+      <workItem from="1735050835394" duration="2619000" />
+      <workItem from="1735112674177" duration="8853000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSequences.java</url>
           <line>32</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSequences.java</url>
           <line>26</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -375,27 +409,27 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/ConsecutiveOnes.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/medium/ConsecutiveOnes.java</url>
           <line>33</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/ConsecutiveOnes.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/medium/ConsecutiveOnes.java</url>
           <line>30</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSequences.java</url>
           <line>50</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSequences.java</url>
           <line>58</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/PerfectSum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/medium/PerfectSum.java</url>
           <line>27</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
@@ -408,6 +442,67 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/SelectionSort.java</url>
           <line>39</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/sorting/recursive/MergeSort.java</url>
+          <line>26</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/new_problems/sorting/recursive/MergeSort.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/DailPadProblem.java</url>
+          <line>49</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/DailPadProblem.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/DailPadProblem.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/DailPadProblem.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/BinarySearch.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/PermutationsString.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/PermutationsString.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/PermutationsString.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/PossibleStrings.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

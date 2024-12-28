@@ -1,4 +1,4 @@
-package com.recursion;
+package com.recursion.medium;
 
 //return the combination of the items in the list that sums up the target.
 

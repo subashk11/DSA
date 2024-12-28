@@ -13,7 +13,8 @@ public class BubbleSort {
 
     public static void main(String[] args) {
         // sample array
-        int[] arr = {4,1,3,7,11,9};
+        int[] arr =
+        {41, 9, 9, 48, 11, 2, 11, 12, 28, 10, 15, 4, 16, 48};
 
         int n =arr.length;
 
@@ -21,7 +22,7 @@ public class BubbleSort {
         for(int i =0;i<n;i++){ // N times
             // inner loop to get the largest item
             // and swap by checking adjacent item
-            for(int j=i;j<n-i-1;j++){ // N-i times N
+            for(int j=0;j<n-i-1;j++){ // N-i times
                 if(arr[j]>arr[j+1]){
                     int temp = arr[j];
                     arr[j] = arr[j+1];
