@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae31eef5-1154-4a53-8847-b7c790db2547" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/new_problems/sorting/iterative/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/BetterString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/BetterString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/CombinationSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/ConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/ConsecutiveOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/CountSubsequencesSumToTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/CountSubsequencesSumToTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/FibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/FibonacciNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/GenerateParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/GenerateParanthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/PalindromeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/PerfectSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/PerfectSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/ReverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/ReverseAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SubSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SubSequencesSumToTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSequencesSumToTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SubSetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/SubSetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/recursion/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recursion/medium/SumOfNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +66,7 @@
     "Application.FlipBits.executor": "Run",
     "Application.FloodFillAlgorithm.executor": "Run",
     "Application.FunctionalInterface.executor": "Run",
+    "Application.Game.executor": "Run",
     "Application.GcdOfNumber.executor": "Run",
     "Application.GenerateParanthesis.executor": "Debug",
     "Application.GetStartingPointOfCycle.executor": "Run",
@@ -150,11 +135,12 @@
     "Application.towerOfHanoi.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "E:/Java Spring Projects/DSA/src/main/java",
-    "last_opened_file_path": "E:/Java Spring Projects/DSA",
+    "last_opened_file_path": "/Users/subashk/Code/Java/DSA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -172,13 +158,13 @@
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PossibleStrings">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursion.hard.BinarySearch" />
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="CheckArraySortedAndRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arrays.CheckArraySortedAndRotated" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.recursion.hard.*" />
+          <option name="PATTERN" value="com.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DailPadProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursion.hard.DailPadProblem" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tic_tac_toe.Game" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.recursion.hard.*" />
+          <option name="PATTERN" value="com.tic_tac_toe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,20 +226,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.CheckArraySortedAndRotated" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.PossibleStrings" />
         <item itemvalue="Application.PermutationsString" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.DailPadProblem" />
-        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -503,6 +482,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/recursion/hard/PossibleStrings.java</url>
           <line>40</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tic_tac_toe/Board.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
