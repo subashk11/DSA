@@ -32,30 +32,30 @@ public class Board {
         }
     }
 
-    // PRINTING
-    public void printBoard() {
-        try {
-            for(int i = 0; i<size; i++){
-                int[] row = board[i];
-                for(int j = 0;j<size; j++){
-                    StringBuilder str = new StringBuilder();
-                    str.append("[");
-                    if(row[j] == 'X') {
-                        str.append(" X ");
-                    } else if(row[j] == 'O') {
-                        str.append(" O ");
-                    } else {
-                        str.append("   ");
-                    }
-                    str.append("]");
-                    System.out.print(str.toString());
-                }
-                System.out.println();
-            }
-        } catch (Exception e) {
-            System.out.println("Error while printing board : "+ e);
-        }
-    }
+//    // PRINTING
+//    public void printBoard() {
+//        try {
+//            for(int i = 0; i<size; i++){
+//                int[] row = board[i];
+//                for(int j = 0;j<size; j++){
+//                    StringBuilder str = new StringBuilder();
+//                    str.append("[");
+//                    if(row[j] == 'X') {
+//                        str.append(" X ");
+//                    } else if(row[j] == 'O') {
+//                        str.append(" O ");
+//                    } else {
+//                        str.append("   ");
+//                    }
+//                    str.append("]");
+//                    System.out.print(str.toString());
+//                }
+//                System.out.println();
+//            }
+//        } catch (Exception e) {
+//            System.out.println("Error while printing board : "+ e);
+//        }
+//    }
 
     // CHECK UTILITY
 }

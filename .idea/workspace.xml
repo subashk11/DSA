@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ae31eef5-1154-4a53-8847-b7c790db2547" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tic_tac_toe/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tic_tac_toe/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tic_tac_toe/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tic_tac_toe/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +134,8 @@
     "Application.ZigZagTraversal.executor": "Run",
     "Application.com.bitmanipulation.Basics.executor": "Run",
     "Application.com.linkedlist.doublylinkedlist.DoublyLinkedList.executor": "Run",
+    "Application.com.linkedlist.singlylinkedlist.MergeSort.executor": "Run",
+    "Application.com.orthello.Game.executor": "Run",
     "Application.towerOfHanoi.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -158,7 +162,7 @@
       <recent name="com.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Game">
+  <component name="RunManager" selected="Application.com.linkedlist.singlylinkedlist.MergeSort">
     <configuration name="CheckArraySortedAndRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arrays.CheckArraySortedAndRotated" />
       <module name="DSA" />
@@ -198,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursion.hard.PermutationsString" />
+    <configuration name="com.linkedlist.singlylinkedlist.MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.singlylinkedlist.MergeSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.recursion.hard.*" />
+          <option name="PATTERN" value="com.linkedlist.singlylinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PossibleStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.recursion.hard.PossibleStrings" />
+    <configuration name="com.orthello.Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.orthello.Game" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.recursion.hard.*" />
+          <option name="PATTERN" value="com.orthello.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.linkedlist.singlylinkedlist.MergeSort" />
+        <item itemvalue="Application.com.orthello.Game" />
         <item itemvalue="Application.Game" />
         <item itemvalue="Application.CheckArraySortedAndRotated" />
         <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.PossibleStrings" />
-        <item itemvalue="Application.PermutationsString" />
       </list>
     </recent_temporary>
   </component>
@@ -487,6 +491,51 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/tic_tac_toe/Board.java</url>
           <line>21</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/orthello/Board.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/singlylinkedlist/MergeSort.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/singlylinkedlist/MergeSort.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/singlylinkedlist/MergeSort.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/singlylinkedlist/MergeSort.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/singlylinkedlist/MergeSort.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/singlylinkedlist/MergeSort.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/singlylinkedlist/MergeSort.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/singlylinkedlist/MergeSort.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

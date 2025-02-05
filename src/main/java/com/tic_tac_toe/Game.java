@@ -13,7 +13,6 @@ public class Game {
 
     public Game() {
         board = new Board('X', 'O');
-        board.printBoard();
     }
 
     public static void main(String[] args) {
