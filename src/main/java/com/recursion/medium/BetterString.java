@@ -47,9 +47,9 @@ public class BetterString {
         recursiveFunctionCall(str, subStr+str.charAt(idx), n, idx+1, list);
 
         // not take
-        if(subStr.length() > 0){
-            subStr.substring(0, (subStr.length() -1));
-        }
+//        if(subStr.length() > 0){
+//            subStr.substring(0, (subStr.length() -1));
+//        }
 
         recursiveFunctionCall(str, subStr, n, idx+1, list);
     }

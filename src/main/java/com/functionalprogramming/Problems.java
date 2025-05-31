@@ -15,6 +15,10 @@ public class Problems {
 
         Set<Integer> result = nums.stream().collect(Collectors.toSet());
 
+        int[] nums1 = {2, 3, 3, 7, 11, 11, 25, 1, 2, 6};
+
+        Set<Integer> res = Arrays.stream(nums1).boxed().collect(Collectors.toSet());
+
         // other approach
         List<Integer> res2 = nums.stream().distinct().collect(Collectors.toList());
 

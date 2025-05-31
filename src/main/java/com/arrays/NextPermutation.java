@@ -6,8 +6,8 @@ public class NextPermutation {
 
     public static void main(String[] args) {
         // print the next permutation of the given array
-        int[] arr1 = {2, 1, 5, 4, 3, 0, 0};
-        int[] arr = {1, 2, 3};
+        int[] arr = {2, 1, 5, 4, 3, 0, 0};
+//        int[] arr = {1, 2, 3};
 
         // find the break point where item is smaller to the next item
         int index = -1;

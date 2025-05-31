@@ -16,8 +16,8 @@ public class SubSequences {
         int[] array ={3,1,2};
         List<Integer> data = new ArrayList<>();
 
-        //create the recursion function to pring the array
-//        printSubSequences(array, 0, data);
+        //create the recursion function to print the array
+        //printSubSequences(array, 0, data);
         subsets2(array);
     }
 

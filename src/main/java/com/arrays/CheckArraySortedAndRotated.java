@@ -2,7 +2,7 @@ package com.arrays;
 
 public class CheckArraySortedAndRotated {
     public static void main(String[] args) {
-        int[] arr = {60, 30, 40, 50, 10, 20};
+        int[] arr = {30, 40, 50, 10, 20};
         boolean isSorted = true;
 
         int cnt = 0;

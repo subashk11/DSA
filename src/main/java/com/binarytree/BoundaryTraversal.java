@@ -42,14 +42,14 @@ public class BoundaryTraversal {
         // Do a leaf traversal and store the leaf nodes in a list
         leafTraversal(root, result);
         // Do a right traversal and store the right nodes in a list not a leaf node
-        rightTraversal(root, result);
+        rightTraversal(root.right, result);
         return result;
     }
 
     private static void rightTraversal(Node root, List<Integer> result) {
         Node curr = root;
         while(curr != null){
-            if(isLeafNode(curr)) result.add(curr.data);
+            if(!isLeafNode(curr)) result.add(curr.data);
             if(curr.right != null) {
                 curr = curr.right;
             }else{
@@ -68,7 +68,7 @@ public class BoundaryTraversal {
     private static void leftTraversal(Node root, List<Integer> result) {
         Node curr = root;
         while(curr != null){
-            if(isLeafNode(curr)) result.add(curr.data);
+            if(!isLeafNode(curr)) result.add(curr.data);
             if(curr.left != null) {
                 curr = curr.left;
             }else{

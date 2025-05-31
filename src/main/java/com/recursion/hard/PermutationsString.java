@@ -15,7 +15,7 @@ public class PermutationsString {
 
     // Problem States return all the permutations of the string.
     public static void main(String[] args) {
-        String str = "abc";
+        String str = "abcdef";
 
         StringBuilder s = new StringBuilder(str);
 
